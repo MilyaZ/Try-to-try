@@ -8,6 +8,7 @@ namespace drow
 {
     static class Program
     {
+        static public int op = 0;
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
